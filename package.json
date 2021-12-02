@@ -1,0 +1,15 @@
+{
+  "name": "lighthouse-from-sitemap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lighthouse-batch-parallel": "^1.0.15",
+    "sitemap-to-array": "^6.0.0"
+  }
+}
